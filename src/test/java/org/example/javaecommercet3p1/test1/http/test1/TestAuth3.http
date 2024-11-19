@@ -1,0 +1,67 @@
+###
+POST http://localhost:8080/api/authentication/sign-up
+Content-Type: application/json
+
+{
+  "name": "admin",
+  "username": "zeywox",
+  "password": "admin",
+  "email": "test@gmail.com"
+}
+
+###
+PUT http://localhost:8080/api/internal/make-admin/zeywox
+Authorization: Bearer InternalApiKey1234!
+###
+
+POST http://localhost:8080/api/authentication/sign-in
+Content-Type: application/json
+
+{
+  "username": "zeywox",
+  "password": "admin"
+}
+###
+POST http://localhost:8080/api/authentication/sign-up
+Content-Type: application/json
+
+{
+  "name": "user1",
+  "username": "user1",
+  "password": "user1",
+  "email": "user1@gmail.com"
+
+}
+
+###
+POST http://localhost:8080/api/authentication/sign-in
+Content-Type: application/json
+
+{
+  "username": "user1",
+  "password": "user1"
+}
+###
+POST http://localhost:8080/api/authentication/sign-up
+Content-Type: application/json
+
+{
+  "name": "admin1",
+  "username": "admin1",
+  "password": "admin1",
+  "email": "admin1@gmail.com"
+
+}
+###
+
+POST http://localhost:8080/api/authentication/sign-in
+Content-Type: application/json
+
+{
+  "username": "admin1",
+  "password": "admin1"
+}
+###
+PUT http://localhost:8080/api/internal/make-admin/admin1
+Authorization: Bearer InternalApiKey1234!
+###

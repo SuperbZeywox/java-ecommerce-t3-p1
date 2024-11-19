@@ -1,0 +1,76 @@
+###
+GET http://localhost:8080/api/shop/categories/
+###
+GET http://localhost:8080/api/shop/categories/findByCategoryId?id=2
+###
+GET http://localhost:8080/api/shop/categories/findByCategoryId?id=2&pageNumber=0&pageSize=1
+###
+GET http://localhost:8080/api/shop/categories/findByCategoryId?id=2&pageNumber=1&pageSize=1
+###
+GET http://localhost:8080/api/shop/group1/desktop/1
+###
+GET http://localhost:8080/api/shop/group1/phone/1
+###
+GET http://localhost:8080/api/shop/group1/desktop/filter?name=Mac
+###
+GET http://localhost:8080/api/shop/group1/phone/filter?name=mobile
+###
+GET http://localhost:8080/api/shop/group1/desktop/filter?name=GameBox&pageNumber=1&pageSize=1
+###
+GET http://localhost:8080/api/shop/group1/phone/filter?name=black
+###
+GET http://localhost:8080/api/shop/group1/phone/filter?name=black&pageNumber=1&pageSize=1
+###
+GET http://localhost:8080/api/shop/group1/desktop/products
+###
+GET http://localhost:8080/api/shop/group1/phone/products
+###
+GET http://localhost:8080/api/shop/countries
+###
+POST http://localhost:8080/checkout/purchase
+###
+GET http://localhost:8080/finance/orders?email=test@gmail.com&pageNumber=0&pageSize=2
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ6ZXl3b3giLCJyb2xlcyI6IlJPTEVfVVNFUiIsInVzZXJJZCI6MSwiZXhwIjoxNzMyMTIxOTMzfQ.AC-NWtf9_vztPeWjItZJwlmcN5lR7_iZDnEPHGw8Rr4RHdgVrrhcABbvzytTca6CIkoycbOPKKWDh0x7Nz_IXA
+###
+GET http://localhost:8080/finance/orders?email=test@gmail.com
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ6ZXl3b3giLCJyb2xlcyI6IlJPTEVfVVNFUiIsInVzZXJJZCI6MSwiZXhwIjoxNzMyMTIxOTMzfQ.AC-NWtf9_vztPeWjItZJwlmcN5lR7_iZDnEPHGw8Rr4RHdgVrrhcABbvzytTca6CIkoycbOPKKWDh0x7Nz_IXA
+###
+POST http://localhost:8080/finance/checkout
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ6ZXl3b3giLCJyb2xlcyI6IlJPTEVfVVNFUiIsInVzZXJJZCI6MSwiZXhwIjoxNzMyMTIxOTMzfQ.AC-NWtf9_vztPeWjItZJwlmcN5lR7_iZDnEPHGw8Rr4RHdgVrrhcABbvzytTca6CIkoycbOPKKWDh0x7Nz_IXA
+Content-Type: application/json
+
+{
+  "customer": {"firstName": "saiko", "lastName": "last name test", "email": "test@gmail.com"},
+  "shippingAddress": {"street": "test", "city": "test", "state": "Espírito Santo", "country": "Brazil", "zipCode": "123456"},
+  "billingAddress": {"street": "test", "city": "test", "state": "Nunavut", "country": "Canada", "zipCode": "123456"},
+  "order": {"totalPrice": 57970, "totalQuantity": 3},
+  "orderItems":[
+    {
+      "name": "AlzaPC GameBox Prime - i7 / RTX4070 SUPER / 32GB RAM / 1TB SSD",
+      "imageUrl": "1.webp",
+      "productId": "1",
+      "quantity": 1,
+      "unitPrice": 37990,
+      "order": {}
+    },
+    {
+      "name": "Samsung Galaxy A55 5G 8GB/128GB modročerná",
+      "imageUrl": "1.webp",
+      "productId": "3",
+      "quantity": 2,
+      "unitPrice": 9990,
+      "order": {}
+    }
+  ]
+}
+
+###
+GET http://localhost:8080/api/shop/group1/filter?name=alza
+###
+GET http://localhost:8080/api/shop/group1/filter?name=gb
+###
+GET http://localhost:8080/api/shop/group1/filter?name=Herní
+###
+GET http://localhost:8080/api/shop/group1/filter?name=Intel
+###
+

@@ -1,0 +1,43 @@
+
+[
+  {
+    "id":"1",
+    "name": "iPhone 16 Pro 256GB Black Titanium - s výkupním bonusem 2 500 Kč",
+    "description": "Mobile Phone 6,3\" Super Retina XDR OLED 2622 × 1206, 120Hz, processor Apple A18 Pro 6-core, RAM 8 GB, internal memory 256 GB, main camera with optical zoom 48 Mpx (f/1,78) + 12 Mpx (f/2,8) + 48 Mpx (f/2,2), selfie camera 12 Mpx, optical stabilization, GPS, NFC, LTE, 5G, USB-C, single SIM + eSIM, water resistant IP68, unlocked, quick charging, wireless charging 25W, battery 3582 mAh, iOS 18",
+    "price": "32990",
+    "images": ["1.webp","2.webp","3.webp"]
+  },
+  {
+    "id":"2",
+    "name": "Xiaomi Redmi Note 13 Pro 8GB/256GB černý",
+    "description": "Mobile Phone 6,67\" AMOLED 2400 × 1080, 120Hz, processor MediaTek Helio G99 Ultra 8-core, RAM 8 GB, internal memory 256 GB, main camera 200 Mpx (f/1,65) + 8 Mpx (f/2,2) + 2 Mpx (f/2,4), selfie camera 16 Mpx, optical and electronic stabilization, GPS, IrDA, NFC, LTE, Jack (3,5mm) and USB-C, fingerprint reader in screen, dual SIM, unlocked, quick charging 67W, battery 5000 mAh, Android 13",
+    "price": "6990",
+    "images": ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp"]
+
+  },
+  {
+    "id":"3",
+    "name": "Samsung Galaxy A55 5G 8GB/128GB modročerná",
+    "description": "Mobile Phone 6,6\" AMOLED 2340x1080, 120Hz, processor Samsung Exynos 1480 8-core, RAM 8 GB, internal memory 128 GB, main camera 50 Mpx (f/1,8) + 12 Mpx (f/2,2) + 5 Mpx (f/2,4), selfie camera 32 Mpx, optical stabilization, GPS, NFC, LTE, 5G, USB-C, fingerprint reader in screen, hybrid slot, water resistant IP67, unlocked, quick charging 25W, battery 5000 mAh, Android 14",
+    "price": "9990",
+    "images": ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"]
+  },
+  {
+    "id":"4",
+    "name": "OnePlus Nord 3 5G 16GB/256GB šedá",
+    "description": "Mobile Phone 6,74\" AMOLED 2772 × 1240, 120Hz, processor MediaTek Dimensity 9000 8-core, RAM 16 GB, internal memory 256 GB, main camera 50 Mpx (f/1,8) + 8 Mpx (f/2,2) + 2 Mpx (f/2,4), selfie camera 16 Mpx, optical stabilization, GPS, IrDA, NFC, LTE, 5G, USB-C, fingerprint reader in screen, dual SIM, water resistant IP54, unlocked, quick charging 80W, battery 5000 mAh, Android 13",
+    "price": "9390",
+    "images": ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp"]
+
+  },
+  {
+    "id":"5",
+    "name": "Samsung Galaxy S23 5G 256GB black",
+    "description": "Mobile Phone 6,1\" AMOLED 2340x1080, 120Hz, processor Qualcomm Snapdragon 8 Gen 2 8-core, RAM 8 GB, internal memory 256 GB, main camera with optical zoom 50 Mpx (f/1,8) + 10 Mpx (f/2,4) + 12 Mpx (f/2,2), selfie camera 12 Mpx, optical stabilization, NFC, LTE, 5G, USB-C, fingerprint reader in screen, Dual SIM + eSIM, water resistant IP68, unlocked, quick charging 25W, battery 3900 mAh, Android 13",
+    "price": "18990",
+    "images": ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp"]
+  }
+
+]
+
+

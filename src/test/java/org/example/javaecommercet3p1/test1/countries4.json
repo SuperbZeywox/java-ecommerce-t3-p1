@@ -1,0 +1,2999 @@
+[
+  {
+    "name": "Czech Republic",
+    "code": "CZ",
+    "states": [
+      {
+        "name": "Jihomoravský kraj"
+      },
+      {
+        "name": "Jihočeský kraj"
+      },
+      {
+        "name": "Karlovarský kraj"
+      },
+      {
+        "name": "Královéhradecký kraj"
+      },
+      {
+        "name": "Liberecký kraj"
+      },
+      {
+        "name": "Moravskoslezský kraj"
+      },
+      {
+        "name": "Olomoucký kraj"
+      },
+      {
+        "name": "Pardubický kraj"
+      },
+      {
+        "name": "Plzeňský kraj"
+      },
+      {
+        "name": "Praha, hlavní město"
+      },
+      {
+        "name": "Středočeský kraj"
+      },
+      {
+        "name": "Vysočina"
+      },
+      {
+        "name": "Zlínský kraj"
+      },
+      {
+        "name": "Ústecký kraj"
+      }
+    ]
+  }
+  ,
+  {
+    "name": "Australia",
+    "code": "AU",
+    "states": [
+      {
+        "name": "Australian Capital Territory",
+        "code": "AU-ACT"
+      },
+      {
+        "name": "New South Wales",
+        "code": "AU-NSW"
+      },
+      {
+        "name": "Northern Territory",
+        "code": "AU-NT"
+      },
+      {
+        "name": "Queensland",
+        "code": "AU-QLD"
+      },
+      {
+        "name": "South Australia",
+        "code": "AU-SA"
+      },
+      {
+        "name": "Tasmania",
+        "code": "AU-TAS"
+      },
+      {
+        "name": "Victoria",
+        "code": "AU-VIC"
+      },
+      {
+        "name": "Western Australia",
+        "code": "AU-WA"
+      }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "states": [
+      {
+        "name": "Banskobystrický kraj",
+        "code": "SK-BC"
+      },
+      {
+        "name": "Bratislavský kraj",
+        "code": "SK-BL"
+      },
+      {
+        "name": "Košický kraj",
+        "code": "SK-KI"
+      },
+      {
+        "name": "Nitriansky kraj",
+        "code": "SK-NI"
+      },
+      {
+        "name": "Prešovský kraj",
+        "code": "SK-PV"
+      },
+      {
+        "name": "Trenčiansky kraj",
+        "code": "SK-TC"
+      },
+      {
+        "name": "Trnavský kraj",
+        "code": "SK-TA"
+      },
+      {
+        "name": "Žilinský kraj",
+        "code": "SK-ZI"
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "states": [
+      {
+        "name": "Barking and Dagenham",
+        "code": "GB-BDG",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Barnet",
+        "code": "GB-BNE",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Bexley",
+        "code": "GB-BEX",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Brent",
+        "code": "GB-BEN",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Bromley",
+        "code": "GB-BRY",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Camden",
+        "code": "GB-CMD",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Croydon",
+        "code": "GB-CRY",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Ealing",
+        "code": "GB-EAL",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Enfield",
+        "code": "GB-ENF",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Greenwich",
+        "code": "GB-GRE",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Hackney",
+        "code": "GB-HCK",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Hammersmith and Fulham",
+        "code": "GB-HMF",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Haringey",
+        "code": "GB-HRY",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Harrow",
+        "code": "GB-HRW",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Havering",
+        "code": "GB-HAV",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Hillingdon",
+        "code": "GB-HIL",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Hounslow",
+        "code": "GB-HNS",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Islington",
+        "code": "GB-ISL",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Kensington and Chelsea",
+        "code": "GB-KEC",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Kingston upon Thames",
+        "code": "GB-KTT",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Lambeth",
+        "code": "GB-LBH",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Lewisham",
+        "code": "GB-LEW",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Merton",
+        "code": "GB-MRT",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Newham",
+        "code": "GB-NWM",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Redbridge",
+        "code": "GB-RDB",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Richmond upon Thames",
+        "code": "GB-RIC",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Southwark",
+        "code": "GB-SWK",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Sutton",
+        "code": "GB-STN",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Tower Hamlets",
+        "code": "GB-TWH",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Waltham Forest",
+        "code": "GB-WFT",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Wandsworth",
+        "code": "GB-WND",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "Westminster",
+        "code": "GB-WSM",
+        "subdivision": "London borough"
+      },
+      {
+        "name": "England and Wales",
+        "code": "GB-EAW",
+        "subdivision": "Nation"
+      },
+      {
+        "name": "Great Britain",
+        "code": "GB-GBN",
+        "subdivision": "Nation"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB-UKM",
+        "subdivision": "Nation"
+      },
+      {
+        "name": "London, City of",
+        "code": "GB-LND",
+        "subdivision": "city corporation"
+      },
+      {
+        "name": "Aberdeen City",
+        "code": "GB-ABE",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Aberdeenshire",
+        "code": "GB-ABD",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Angus",
+        "code": "GB-ANS",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Argyll and Bute",
+        "code": "GB-AGB",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Clackmannanshire",
+        "code": "GB-CLK",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Dumfries and Galloway",
+        "code": "GB-DGY",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Dundee City",
+        "code": "GB-DND",
+        "subdivision": "council area"
+      },
+      {
+        "name": "East Ayrshire",
+        "code": "GB-EAY",
+        "subdivision": "council area"
+      },
+      {
+        "name": "East Dunbartonshire",
+        "code": "GB-EDU",
+        "subdivision": "council area"
+      },
+      {
+        "name": "East Lothian",
+        "code": "GB-ELN",
+        "subdivision": "council area"
+      },
+      {
+        "name": "East Renfrewshire",
+        "code": "GB-ERW",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Edinburgh, City of",
+        "code": "GB-EDH",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Eilean Siar",
+        "code": "GB-ELS",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Falkirk",
+        "code": "GB-FAL",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Fife",
+        "code": "GB-FIF",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Glasgow City",
+        "code": "GB-GLG",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Highland",
+        "code": "GB-HLD",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Inverclyde",
+        "code": "GB-IVC",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Midlothian",
+        "code": "GB-MLN",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Moray",
+        "code": "GB-MRY",
+        "subdivision": "council area"
+      },
+      {
+        "name": "North Ayrshire",
+        "code": "GB-NAY",
+        "subdivision": "council area"
+      },
+      {
+        "name": "North Lanarkshire",
+        "code": "GB-NLK",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Orkney Islands",
+        "code": "GB-ORK",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Perth and Kinross",
+        "code": "GB-PKN",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Renfrewshire",
+        "code": "GB-RFW",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Scottish Borders, The",
+        "code": "GB-SCB",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Shetland Islands",
+        "code": "GB-ZET",
+        "subdivision": "council area"
+      },
+      {
+        "name": "South Ayrshire",
+        "code": "GB-SAY",
+        "subdivision": "council area"
+      },
+      {
+        "name": "South Lanarkshire",
+        "code": "GB-SLK",
+        "subdivision": "council area"
+      },
+      {
+        "name": "Stirling",
+        "code": "GB-STG",
+        "subdivision": "council area"
+      },
+      {
+        "name": "West Dunbartonshire",
+        "code": "GB-WDU",
+        "subdivision": "council area"
+      },
+      {
+        "name": "West Lothian",
+        "code": "GB-WLN",
+        "subdivision": "council area"
+      },
+      {
+        "name": "England",
+        "code": "GB-ENG",
+        "subdivision": "country"
+      },
+      {
+        "name": "Scotland",
+        "code": "GB-SCT",
+        "subdivision": "country"
+      },
+      {
+        "name": "Wales",
+        "code": "GB-WLS",
+        "subdivision": "country"
+      },
+      {
+        "name": "Antrim",
+        "code": "GB-ANT",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Ards",
+        "code": "GB-ARD",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Armagh",
+        "code": "GB-ARM",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Ballymena",
+        "code": "GB-BLA",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Ballymoney",
+        "code": "GB-BLY",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Banbridge",
+        "code": "GB-BNB",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Belfast",
+        "code": "GB-BFS",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Carrickfergus",
+        "code": "GB-CKF",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Castlereagh",
+        "code": "GB-CSR",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Coleraine",
+        "code": "GB-CLR",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Cookstown",
+        "code": "GB-CKT",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Craigavon",
+        "code": "GB-CGV",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Derry",
+        "code": "GB-DRY",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Down",
+        "code": "GB-DOW",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Dungannon and South Tyrone",
+        "code": "GB-DGN",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Fermanagh",
+        "code": "GB-FER",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Larne",
+        "code": "GB-LRN",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Limavady",
+        "code": "GB-LMV",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Lisburn",
+        "code": "GB-LSB",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Magherafelt",
+        "code": "GB-MFT",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Moyle",
+        "code": "GB-MYL",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Newry and Mourne District",
+        "code": "GB-NYM",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Newtownabbey",
+        "code": "GB-NTA",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "North Down",
+        "code": "GB-NDN",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Omagh",
+        "code": "GB-OMH",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Strabane",
+        "code": "GB-STB",
+        "subdivision": "district council area"
+      },
+      {
+        "name": "Barnsley",
+        "code": "GB-BNS",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Birmingham",
+        "code": "GB-BIR",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Bolton",
+        "code": "GB-BOL",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Bradford",
+        "code": "GB-BRD",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Bury",
+        "code": "GB-BUR",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Calderdale",
+        "code": "GB-CLD",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Coventry",
+        "code": "GB-COV",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Doncaster",
+        "code": "GB-DNC",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Dudley",
+        "code": "GB-DUD",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Gateshead",
+        "code": "GB-GAT",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Kirklees",
+        "code": "GB-KIR",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Knowsley",
+        "code": "GB-KWL",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Leeds",
+        "code": "GB-LDS",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Liverpool",
+        "code": "GB-LIV",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Manchester",
+        "code": "GB-MAN",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Newcastle upon Tyne",
+        "code": "GB-NET",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "North Tyneside",
+        "code": "GB-NTY",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Oldham",
+        "code": "GB-OLD",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Rochdale",
+        "code": "GB-RCH",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Rotherham",
+        "code": "GB-ROT",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Salford",
+        "code": "GB-SLF",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Sandwell",
+        "code": "GB-SAW",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Sefton",
+        "code": "GB-SFT",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Sheffield",
+        "code": "GB-SHF",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Solihull",
+        "code": "GB-SOL",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "South Tyneside",
+        "code": "GB-STY",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "St. Helens",
+        "code": "GB-SHN",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Stockport",
+        "code": "GB-SKP",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Sunderland",
+        "code": "GB-SND",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Tameside",
+        "code": "GB-TAM",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Trafford",
+        "code": "GB-TRF",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Wakefield",
+        "code": "GB-WKF",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Walsall",
+        "code": "GB-WLL",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Wigan",
+        "code": "GB-WGN",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Wirral",
+        "code": "GB-WRL",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Wolverhampton",
+        "code": "GB-WLV",
+        "subdivision": "metropolitan district"
+      },
+      {
+        "name": "Northern Ireland",
+        "code": "GB-NIR",
+        "subdivision": "province"
+      },
+      {
+        "name": "Buckinghamshire",
+        "code": "GB-BKM",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Cambridgeshire",
+        "code": "GB-CAM",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Cumbria",
+        "code": "GB-CMA",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Derbyshire",
+        "code": "GB-DBY",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Devon",
+        "code": "GB-DEV",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Dorset",
+        "code": "GB-DOR",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "East Sussex",
+        "code": "GB-ESX",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Essex",
+        "code": "GB-ESS",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Gloucestershire",
+        "code": "GB-GLS",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Hampshire",
+        "code": "GB-HAM",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Hertfordshire",
+        "code": "GB-HRT",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Kent",
+        "code": "GB-KEN",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Lancashire",
+        "code": "GB-LAN",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Leicestershire",
+        "code": "GB-LEC",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Lincolnshire",
+        "code": "GB-LIN",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Norfolk",
+        "code": "GB-NFK",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "North Yorkshire",
+        "code": "GB-NYK",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Northamptonshire",
+        "code": "GB-NTH",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Nottinghamshire",
+        "code": "GB-NTT",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Oxfordshire",
+        "code": "GB-OXF",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Somerset",
+        "code": "GB-SOM",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Staffordshire",
+        "code": "GB-STS",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Suffolk",
+        "code": "GB-SFK",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Surrey",
+        "code": "GB-SRY",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Warwickshire",
+        "code": "GB-WAR",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "West Sussex",
+        "code": "GB-WSX",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Worcestershire",
+        "code": "GB-WOR",
+        "subdivision": "two-tier county"
+      },
+      {
+        "name": "Bath and North East Somerset",
+        "code": "GB-BAS",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Bedford",
+        "code": "GB-BDF",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Blackburn with Darwen",
+        "code": "GB-BBD",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Blackpool",
+        "code": "GB-BPL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Blaenau Gwent",
+        "code": "GB-BGW",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Bournemouth",
+        "code": "GB-BMH",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Bracknell Forest",
+        "code": "GB-BRC",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Bridgend",
+        "code": "GB-BGE",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Brighton and Hove",
+        "code": "GB-BNH",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Bristol, City of",
+        "code": "GB-BST",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Caerphilly",
+        "code": "GB-CAY",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Cardiff",
+        "code": "GB-CRF",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Carmarthenshire",
+        "code": "GB-CMN",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Central Bedfordshire",
+        "code": "GB-CBF",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Ceredigion",
+        "code": "GB-CGN",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Cheshire East",
+        "code": "GB-CHE",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Cheshire West and Chester",
+        "code": "GB-CHW",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Conwy",
+        "code": "GB-CWY",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Cornwall",
+        "code": "GB-CON",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Darlington",
+        "code": "GB-DAL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Denbighshire",
+        "code": "GB-DEN",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Derby",
+        "code": "GB-DER",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Durham, County",
+        "code": "GB-DUR",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "East Riding of Yorkshire",
+        "code": "GB-ERY",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Flintshire",
+        "code": "GB-FLN",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Gwynedd",
+        "code": "GB-GWN",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Halton",
+        "code": "GB-HAL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Hartlepool",
+        "code": "GB-HPL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Herefordshire",
+        "code": "GB-HEF",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Isle of Anglesey",
+        "code": "GB-AGY",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Isle of Wight",
+        "code": "GB-IOW",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Isles of Scilly",
+        "code": "GB-IOS",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Kingston upon Hull",
+        "code": "GB-KHL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Leicester",
+        "code": "GB-LCE",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Luton",
+        "code": "GB-LUT",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Medway",
+        "code": "GB-MDW",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Merthyr Tydfil",
+        "code": "GB-MTY",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Middlesbrough",
+        "code": "GB-MDB",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Milton Keynes",
+        "code": "GB-MIK",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Monmouthshire",
+        "code": "GB-MON",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Neath Port Talbot",
+        "code": "GB-NTL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Newport",
+        "code": "GB-NWP",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "North East Lincolnshire",
+        "code": "GB-NEL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "North Lincolnshire",
+        "code": "GB-NLN",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "North Somerset",
+        "code": "GB-NSM",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Northumberland",
+        "code": "GB-NBL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Nottingham",
+        "code": "GB-NGM",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Pembrokeshire",
+        "code": "GB-PEM",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Peterborough",
+        "code": "GB-PTE",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Plymouth",
+        "code": "GB-PLY",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Poole",
+        "code": "GB-POL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Portsmouth",
+        "code": "GB-POR",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Powys",
+        "code": "GB-POW",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Reading",
+        "code": "GB-RDG",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Redcar and Cleveland",
+        "code": "GB-RCC",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Rhondda, Cynon, Taff",
+        "code": "GB-RCT",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Rutland",
+        "code": "GB-RUT",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Shropshire",
+        "code": "GB-SHR",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Slough",
+        "code": "GB-SLG",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "South Gloucestershire",
+        "code": "GB-SGC",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Southampton",
+        "code": "GB-STH",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Southend-on-Sea",
+        "code": "GB-SOS",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Stockton-on-Tees",
+        "code": "GB-STT",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Stoke-on-Trent",
+        "code": "GB-STE",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Swansea",
+        "code": "GB-SWA",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Swindon",
+        "code": "GB-SWD",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Telford and Wrekin",
+        "code": "GB-TFW",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Thurrock",
+        "code": "GB-THR",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Torbay",
+        "code": "GB-TOB",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Torfaen",
+        "code": "GB-TOF",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Vale of Glamorgan, The",
+        "code": "GB-VGL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Warrington",
+        "code": "GB-WRT",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "West Berkshire",
+        "code": "GB-WBK",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Wiltshire",
+        "code": "GB-WIL",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Windsor and Maidenhead",
+        "code": "GB-WNM",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Wokingham",
+        "code": "GB-WOK",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "Wrexham",
+        "code": "GB-WRX",
+        "subdivision": "unitary authority"
+      },
+      {
+        "name": "York",
+        "code": "GB-YOR",
+        "subdivision": "unitary authority"
+      }
+    ]
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "states": [
+      {
+        "name": "District of Columbia",
+        "code": "US-DC",
+        "subdivision": "district"
+      },
+      {
+        "name": "American Samoa",
+        "code": "US-AS",
+        "subdivision": "outlying territory"
+      },
+      {
+        "name": "Guam",
+        "code": "US-GU",
+        "subdivision": "outlying territory"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "US-MP",
+        "subdivision": "outlying territory"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "US-PR",
+        "subdivision": "outlying territory"
+      },
+      {
+        "name": "United States Minor Outlying Islands",
+        "code": "US-UM",
+        "subdivision": "outlying territory"
+      },
+      {
+        "name": "Virgin Islands, U.S.",
+        "code": "US-VI",
+        "subdivision": "outlying territory"
+      },
+      {
+        "name": "Alabama",
+        "code": "US-AL",
+        "subdivision": "state"
+      },
+      {
+        "name": "Alaska",
+        "code": "US-AK",
+        "subdivision": "state"
+      },
+      {
+        "name": "Arizona",
+        "code": "US-AZ",
+        "subdivision": "state"
+      },
+      {
+        "name": "Arkansas",
+        "code": "US-AR",
+        "subdivision": "state"
+      },
+      {
+        "name": "California",
+        "code": "US-CA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Colorado",
+        "code": "US-CO",
+        "subdivision": "state"
+      },
+      {
+        "name": "Connecticut",
+        "code": "US-CT",
+        "subdivision": "state"
+      },
+      {
+        "name": "Delaware",
+        "code": "US-DE",
+        "subdivision": "state"
+      },
+      {
+        "name": "Florida",
+        "code": "US-FL",
+        "subdivision": "state"
+      },
+      {
+        "name": "Georgia",
+        "code": "US-GA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Hawaii",
+        "code": "US-HI",
+        "subdivision": "state"
+      },
+      {
+        "name": "Idaho",
+        "code": "US-ID",
+        "subdivision": "state"
+      },
+      {
+        "name": "Illinois",
+        "code": "US-IL",
+        "subdivision": "state"
+      },
+      {
+        "name": "Indiana",
+        "code": "US-IN",
+        "subdivision": "state"
+      },
+      {
+        "name": "Iowa",
+        "code": "US-IA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Kansas",
+        "code": "US-KS",
+        "subdivision": "state"
+      },
+      {
+        "name": "Kentucky",
+        "code": "US-KY",
+        "subdivision": "state"
+      },
+      {
+        "name": "Louisiana",
+        "code": "US-LA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Maine",
+        "code": "US-ME",
+        "subdivision": "state"
+      },
+      {
+        "name": "Maryland",
+        "code": "US-MD",
+        "subdivision": "state"
+      },
+      {
+        "name": "Massachusetts",
+        "code": "US-MA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Michigan",
+        "code": "US-MI",
+        "subdivision": "state"
+      },
+      {
+        "name": "Minnesota",
+        "code": "US-MN",
+        "subdivision": "state"
+      },
+      {
+        "name": "Mississippi",
+        "code": "US-MS",
+        "subdivision": "state"
+      },
+      {
+        "name": "Missouri",
+        "code": "US-MO",
+        "subdivision": "state"
+      },
+      {
+        "name": "Montana",
+        "code": "US-MT",
+        "subdivision": "state"
+      },
+      {
+        "name": "Nebraska",
+        "code": "US-NE",
+        "subdivision": "state"
+      },
+      {
+        "name": "Nevada",
+        "code": "US-NV",
+        "subdivision": "state"
+      },
+      {
+        "name": "New Hampshire",
+        "code": "US-NH",
+        "subdivision": "state"
+      },
+      {
+        "name": "New Jersey",
+        "code": "US-NJ",
+        "subdivision": "state"
+      },
+      {
+        "name": "New Mexico",
+        "code": "US-NM",
+        "subdivision": "state"
+      },
+      {
+        "name": "New York",
+        "code": "US-NY",
+        "subdivision": "state"
+      },
+      {
+        "name": "North Carolina",
+        "code": "US-NC",
+        "subdivision": "state"
+      },
+      {
+        "name": "North Dakota",
+        "code": "US-ND",
+        "subdivision": "state"
+      },
+      {
+        "name": "Ohio",
+        "code": "US-OH",
+        "subdivision": "state"
+      },
+      {
+        "name": "Oklahoma",
+        "code": "US-OK",
+        "subdivision": "state"
+      },
+      {
+        "name": "Oregon",
+        "code": "US-OR",
+        "subdivision": "state"
+      },
+      {
+        "name": "Pennsylvania",
+        "code": "US-PA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Rhode Island",
+        "code": "US-RI",
+        "subdivision": "state"
+      },
+      {
+        "name": "South Carolina",
+        "code": "US-SC",
+        "subdivision": "state"
+      },
+      {
+        "name": "South Dakota",
+        "code": "US-SD",
+        "subdivision": "state"
+      },
+      {
+        "name": "Tennessee",
+        "code": "US-TN",
+        "subdivision": "state"
+      },
+      {
+        "name": "Texas",
+        "code": "US-TX",
+        "subdivision": "state"
+      },
+      {
+        "name": "Utah",
+        "code": "US-UT",
+        "subdivision": "state"
+      },
+      {
+        "name": "Vermont",
+        "code": "US-VT",
+        "subdivision": "state"
+      },
+      {
+        "name": "Virginia",
+        "code": "US-VA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Washington",
+        "code": "US-WA",
+        "subdivision": "state"
+      },
+      {
+        "name": "West Virginia",
+        "code": "US-WV",
+        "subdivision": "state"
+      },
+      {
+        "name": "Wisconsin",
+        "code": "US-WI",
+        "subdivision": "state"
+      },
+      {
+        "name": "Wyoming",
+        "code": "US-WY",
+        "subdivision": "state"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "states": [
+      {
+        "name": "Aiti",
+        "code": "JP-23"
+      },
+      {
+        "name": "Akita",
+        "code": "JP-05"
+      },
+      {
+        "name": "Aomori",
+        "code": "JP-02"
+      },
+      {
+        "name": "Ehime",
+        "code": "JP-38"
+      },
+      {
+        "name": "Gihu",
+        "code": "JP-21"
+      },
+      {
+        "name": "Gunma",
+        "code": "JP-10"
+      },
+      {
+        "name": "Hirosima",
+        "code": "JP-34"
+      },
+      {
+        "name": "Hokkaidô",
+        "code": "JP-01"
+      },
+      {
+        "name": "Hukui",
+        "code": "JP-18"
+      },
+      {
+        "name": "Hukuoka",
+        "code": "JP-40"
+      },
+      {
+        "name": "Hukusima",
+        "code": "JP-07"
+      },
+      {
+        "name": "Hyôgo",
+        "code": "JP-28"
+      },
+      {
+        "name": "Ibaraki",
+        "code": "JP-08"
+      },
+      {
+        "name": "Isikawa",
+        "code": "JP-17"
+      },
+      {
+        "name": "Iwate",
+        "code": "JP-03"
+      },
+      {
+        "name": "Kagawa",
+        "code": "JP-37"
+      },
+      {
+        "name": "Kagosima",
+        "code": "JP-46"
+      },
+      {
+        "name": "Kanagawa",
+        "code": "JP-14"
+      },
+      {
+        "name": "Kumamoto",
+        "code": "JP-43"
+      },
+      {
+        "name": "Kyôto",
+        "code": "JP-26"
+      },
+      {
+        "name": "Kôti",
+        "code": "JP-39"
+      },
+      {
+        "name": "Mie",
+        "code": "JP-24"
+      },
+      {
+        "name": "Miyagi",
+        "code": "JP-04"
+      },
+      {
+        "name": "Miyazaki",
+        "code": "JP-45"
+      },
+      {
+        "name": "Nagano",
+        "code": "JP-20"
+      },
+      {
+        "name": "Nagasaki",
+        "code": "JP-42"
+      },
+      {
+        "name": "Nara",
+        "code": "JP-29"
+      },
+      {
+        "name": "Niigata",
+        "code": "JP-15"
+      },
+      {
+        "name": "Okayama",
+        "code": "JP-33"
+      },
+      {
+        "name": "Okinawa",
+        "code": "JP-47"
+      },
+      {
+        "name": "Saga",
+        "code": "JP-41"
+      },
+      {
+        "name": "Saitama",
+        "code": "JP-11"
+      },
+      {
+        "name": "Siga",
+        "code": "JP-25"
+      },
+      {
+        "name": "Simane",
+        "code": "JP-32"
+      },
+      {
+        "name": "Sizuoka",
+        "code": "JP-22"
+      },
+      {
+        "name": "Tiba",
+        "code": "JP-12"
+      },
+      {
+        "name": "Tokusima",
+        "code": "JP-36"
+      },
+      {
+        "name": "Totigi",
+        "code": "JP-09"
+      },
+      {
+        "name": "Tottori",
+        "code": "JP-31"
+      },
+      {
+        "name": "Toyama",
+        "code": "JP-16"
+      },
+      {
+        "name": "Tôkyô",
+        "code": "JP-13"
+      },
+      {
+        "name": "Wakayama",
+        "code": "JP-30"
+      },
+      {
+        "name": "Yamagata",
+        "code": "JP-06"
+      },
+      {
+        "name": "Yamaguti",
+        "code": "JP-35"
+      },
+      {
+        "name": "Yamanasi",
+        "code": "JP-19"
+      },
+      {
+        "name": "Ôita",
+        "code": "JP-44"
+      },
+      {
+        "name": "Ôsaka",
+        "code": "JP-27"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "states":  [
+      {
+        "name": "Abruzzo",
+        "code": "IT-65"
+      },
+      {
+        "name": "Basilicata",
+        "code": "IT-77"
+      },
+      {
+        "name": "Calabria",
+        "code": "IT-78"
+      },
+      {
+        "name": "Campania",
+        "code": "IT-72"
+      },
+      {
+        "name": "Emilia-Romagna",
+        "code": "IT-45"
+      },
+      {
+        "name": "Friuli-Venezia Giulia",
+        "code": "IT-36"
+      },
+      {
+        "name": "Lazio",
+        "code": "IT-62"
+      },
+      {
+        "name": "Liguria",
+        "code": "IT-42"
+      },
+      {
+        "name": "Lombardia",
+        "code": "IT-25"
+      },
+      {
+        "name": "Marche",
+        "code": "IT-57"
+      },
+      {
+        "name": "Molise",
+        "code": "IT-67"
+      },
+      {
+        "name": "Piemonte",
+        "code": "IT-21"
+      },
+      {
+        "name": "Puglia",
+        "code": "IT-75"
+      },
+      {
+        "name": "Sardegna",
+        "code": "IT-88"
+      },
+      {
+        "name": "Sicilia",
+        "code": "IT-82"
+      },
+      {
+        "name": "Toscana",
+        "code": "IT-52"
+      },
+      {
+        "name": "Trentino-Alto Adige",
+        "code": "IT-32"
+      },
+      {
+        "name": "Umbria",
+        "code": "IT-55"
+      },
+      {
+        "name": "Valle d'Aosta",
+        "code": "IT-23"
+      },
+      {
+        "name": "Veneto",
+        "code": "IT-34"
+      }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "states": [
+      {
+        "name": "Jawa",
+        "code": "ID-JW"
+      },
+      {
+        "name": "Kalimantan",
+        "code": "ID-KA"
+      },
+      {
+        "name": "Maluku",
+        "code": "ID-ML"
+      },
+      {
+        "name": "Nusa Tenggara",
+        "code": "ID-NU"
+      },
+      {
+        "name": "Papua",
+        "code": "ID-PP"
+      },
+      {
+        "name": "Sulawesi",
+        "code": "ID-SL"
+      },
+      {
+        "name": "Sumatera",
+        "code": "ID-SM"
+      }
+    ]
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "states": [
+      {
+        "name": "Andaman and Nicobar Islands",
+        "code": "IN-AN",
+        "subdivision": "Union territory"
+      },
+      {
+        "name": "Chandigarh",
+        "code": "IN-CH",
+        "subdivision": "Union territory"
+      },
+      {
+        "name": "Dadra and Nagar Haveli",
+        "code": "IN-DN",
+        "subdivision": "Union territory"
+      },
+      {
+        "name": "Daman and Diu",
+        "code": "IN-DD",
+        "subdivision": "Union territory"
+      },
+      {
+        "name": "Delhi",
+        "code": "IN-DL",
+        "subdivision": "Union territory"
+      },
+      {
+        "name": "Lakshadweep",
+        "code": "IN-LD",
+        "subdivision": "Union territory"
+      },
+      {
+        "name": "Puducherry",
+        "code": "IN-PY",
+        "subdivision": "Union territory"
+      },
+      {
+        "name": "Andhra Pradesh",
+        "code": "IN-AP",
+        "subdivision": "state"
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "code": "IN-AR",
+        "subdivision": "state"
+      },
+      {
+        "name": "Assam",
+        "code": "IN-AS",
+        "subdivision": "state"
+      },
+      {
+        "name": "Bihar",
+        "code": "IN-BR",
+        "subdivision": "state"
+      },
+      {
+        "name": "Chhattisgarh",
+        "code": "IN-CT",
+        "subdivision": "state"
+      },
+      {
+        "name": "Goa",
+        "code": "IN-GA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Gujarat",
+        "code": "IN-GJ",
+        "subdivision": "state"
+      },
+      {
+        "name": "Haryana",
+        "code": "IN-HR",
+        "subdivision": "state"
+      },
+      {
+        "name": "Himachal Pradesh",
+        "code": "IN-HP",
+        "subdivision": "state"
+      },
+      {
+        "name": "Jammu and Kashmir",
+        "code": "IN-JK",
+        "subdivision": "state"
+      },
+      {
+        "name": "Jharkhand",
+        "code": "IN-JH",
+        "subdivision": "state"
+      },
+      {
+        "name": "Karnataka",
+        "code": "IN-KA",
+        "subdivision": "state"
+      },
+      {
+        "name": "Kerala",
+        "code": "IN-KL",
+        "subdivision": "state"
+      },
+      {
+        "name": "Madhya Pradesh",
+        "code": "IN-MP",
+        "subdivision": "state"
+      },
+      {
+        "name": "Maharashtra",
+        "code": "IN-MH",
+        "subdivision": "state"
+      },
+      {
+        "name": "Manipur",
+        "code": "IN-MN",
+        "subdivision": "state"
+      },
+      {
+        "name": "Meghalaya",
+        "code": "IN-ML",
+        "subdivision": "state"
+      },
+      {
+        "name": "Mizoram",
+        "code": "IN-MZ",
+        "subdivision": "state"
+      },
+      {
+        "name": "Nagaland",
+        "code": "IN-NL",
+        "subdivision": "state"
+      },
+      {
+        "name": "Odisha",
+        "code": "IN-OR",
+        "subdivision": "state"
+      },
+      {
+        "name": "Punjab",
+        "code": "IN-PB",
+        "subdivision": "state"
+      },
+      {
+        "name": "Rajasthan",
+        "code": "IN-RJ",
+        "subdivision": "state"
+      },
+      {
+        "name": "Sikkim",
+        "code": "IN-SK",
+        "subdivision": "state"
+      },
+      {
+        "name": "Tamil Nadu",
+        "code": "IN-TN",
+        "subdivision": "state"
+      },
+      {
+        "name": "Telangana",
+        "code": "IN-TG",
+        "subdivision": "state"
+      },
+      {
+        "name": "Tripura",
+        "code": "IN-TR",
+        "subdivision": "state"
+      },
+      {
+        "name": "Uttar Pradesh",
+        "code": "IN-UP",
+        "subdivision": "state"
+      },
+      {
+        "name": "Uttarakhand",
+        "code": "IN-UT",
+        "subdivision": "state"
+      },
+      {
+        "name": "West Bengal",
+        "code": "IN-WB",
+        "subdivision": "state"
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "code": "GR",
+    "states": [
+      {
+        "name": "Anatoliki Makedonia kai Thraki",
+        "code": "GR-A"
+      },
+      {
+        "name": "Attiki",
+        "code": "GR-I"
+      },
+      {
+        "name": "Dytiki Ellada",
+        "code": "GR-G"
+      },
+      {
+        "name": "Dytiki Makedonia",
+        "code": "GR-C"
+      },
+      {
+        "name": "Ionia Nisia",
+        "code": "GR-F"
+      },
+      {
+        "name": "Ipeiros",
+        "code": "GR-D"
+      },
+      {
+        "name": "Kentriki Makedonia",
+        "code": "GR-B"
+      },
+      {
+        "name": "Kriti",
+        "code": "GR-M"
+      },
+      {
+        "name": "Notio Aigaio",
+        "code": "GR-L"
+      },
+      {
+        "name": "Peloponnisos",
+        "code": "GR-J"
+      },
+      {
+        "name": "Sterea Ellada",
+        "code": "GR-H"
+      },
+      {
+        "name": "Thessalia",
+        "code": "GR-E"
+      },
+      {
+        "name": "Voreio Aigaio",
+        "code": "GR-K"
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "states":  [
+      {
+        "name": "Baden-Württemberg",
+        "code": "DE-BW"
+      },
+      {
+        "name": "Bayern",
+        "code": "DE-BY"
+      },
+      {
+        "name": "Berlin",
+        "code": "DE-BE"
+      },
+      {
+        "name": "Brandenburg",
+        "code": "DE-BB"
+      },
+      {
+        "name": "Bremen",
+        "code": "DE-HB"
+      },
+      {
+        "name": "Hamburg",
+        "code": "DE-HH"
+      },
+      {
+        "name": "Hessen",
+        "code": "DE-HE"
+      },
+      {
+        "name": "Mecklenburg-Vorpommern",
+        "code": "DE-MV"
+      },
+      {
+        "name": "Niedersachsen",
+        "code": "DE-NI"
+      },
+      {
+        "name": "Nordrhein-Westfalen",
+        "code": "DE-NW"
+      },
+      {
+        "name": "Rheinland-Pfalz",
+        "code": "DE-RP"
+      },
+      {
+        "name": "Saarland",
+        "code": "DE-SL"
+      },
+      {
+        "name": "Sachsen",
+        "code": "DE-SN"
+      },
+      {
+        "name": "Sachsen-Anhalt",
+        "code": "DE-ST"
+      },
+      {
+        "name": "Schleswig-Holstein",
+        "code": "DE-SH"
+      },
+      {
+        "name": "Thüringen",
+        "code": "DE-TH"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "states":  [
+      {
+        "name": "Alsace",
+        "code": "FR-A",
+        "subdivision": "Metropolitan region",
+        "native": "Alsace"
+      },
+      {
+        "name": "Aquitaine",
+        "code": "FR-B",
+        "subdivision": "Metropolitan region",
+        "native": "Aquitaine"
+      },
+      {
+        "name": "Auvergne",
+        "code": "FR-C",
+        "subdivision": "Metropolitan region",
+        "native": "Auvergne"
+      },
+      {
+        "name": "Brittany",
+        "code": "FR-E",
+        "subdivision": "Metropolitan region",
+        "native": "Bretagne"
+      },
+      {
+        "name": "Burgundy",
+        "code": "FR-D",
+        "subdivision": "Metropolitan region",
+        "native": "Bourgogne"
+      },
+      {
+        "name": "Centre-Val de Loire",
+        "code": "FR-F",
+        "subdivision": "Metropolitan region",
+        "native": "Centre"
+      },
+      {
+        "name": "Champagne-Ardenne",
+        "code": "FR-G",
+        "subdivision": "Metropolitan region",
+        "native": "Champagne-Ardenne"
+      },
+      {
+        "name": "Corsica",
+        "code": "FR-H",
+        "subdivision": "Metropolitan region",
+        "native": "Corse"
+      },
+      {
+        "name": "Franche-Comté",
+        "code": "FR-I",
+        "subdivision": "Metropolitan region",
+        "native": "Franche-Comté"
+      },
+      {
+        "name": "Languedoc-Roussillon",
+        "code": "FR-K",
+        "subdivision": "Metropolitan region",
+        "native": "Languedoc-Roussillon"
+      },
+      {
+        "name": "Limousin",
+        "code": "FR-L",
+        "subdivision": "Metropolitan region",
+        "native": "Limousin"
+      },
+      {
+        "name": "Lorraine",
+        "code": "FR-M",
+        "subdivision": "Metropolitan region",
+        "native": "Lorraine"
+      },
+      {
+        "name": "Lower Normandy",
+        "code": "FR-P",
+        "subdivision": "Metropolitan region",
+        "native": "Basse-Normandie"
+      },
+      {
+        "name": "Midi-Pyrénées",
+        "code": "FR-N",
+        "subdivision": "Metropolitan region",
+        "native": "Midi-Pyrénées"
+      },
+      {
+        "name": "Nord-Pas-de-Calais",
+        "code": "FR-O",
+        "subdivision": "Metropolitan region",
+        "native": "Nord-Pas-de-Calais"
+      },
+      {
+        "name": "Pays de la Loire",
+        "code": "FR-R",
+        "subdivision": "Metropolitan region",
+        "native": "Pays de la Loire"
+      },
+      {
+        "name": "Picardy",
+        "code": "FR-S",
+        "subdivision": "Metropolitan region",
+        "native": "Picardie"
+      },
+      {
+        "name": "Poitou-Charentes",
+        "code": "FR-T",
+        "subdivision": "Metropolitan region",
+        "native": "Poitou-Charentes"
+      },
+      {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "code": "FR-U",
+        "subdivision": "Metropolitan region",
+        "native": "Provence-Alpes-Côte d'Azur"
+      },
+      {
+        "name": "Rhône-Alpes",
+        "code": "FR-V",
+        "subdivision": "Metropolitan region",
+        "native": "Rhône-Alpes"
+      },
+      {
+        "name": "Upper Normandy",
+        "code": "FR-Q",
+        "subdivision": "Metropolitan region",
+        "native": "Haute-Normandie"
+      },
+      {
+        "name": "Île-de-France",
+        "code": "FR-J",
+        "subdivision": "Metropolitan region",
+        "native": "Île-de-France"
+      }
+    ]
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "states": [
+      {
+        "name": "Ahvenanmaan maakunta",
+        "code": "FI-01"
+      },
+      {
+        "name": "Etelä-Karjala",
+        "code": "FI-02"
+      },
+      {
+        "name": "Etelä-Pohjanmaa",
+        "code": "FI-03"
+      },
+      {
+        "name": "Etelä-Savo",
+        "code": "FI-04"
+      },
+      {
+        "name": "Kainuu",
+        "code": "FI-05"
+      },
+      {
+        "name": "Kanta-Häme",
+        "code": "FI-06"
+      },
+      {
+        "name": "Keski-Pohjanmaa",
+        "code": "FI-07"
+      },
+      {
+        "name": "Keski-Suomi",
+        "code": "FI-08"
+      },
+      {
+        "name": "Kymenlaakso",
+        "code": "FI-09"
+      },
+      {
+        "name": "Lappi",
+        "code": "FI-10"
+      },
+      {
+        "name": "Pirkanmaa",
+        "code": "FI-11"
+      },
+      {
+        "name": "Pohjanmaa",
+        "code": "FI-12"
+      },
+      {
+        "name": "Pohjois-Karjala",
+        "code": "FI-13"
+      },
+      {
+        "name": "Pohjois-Pohjanmaa",
+        "code": "FI-14"
+      },
+      {
+        "name": "Pohjois-Savo",
+        "code": "FI-15"
+      },
+      {
+        "name": "Päijät-Häme",
+        "code": "FI-16"
+      },
+      {
+        "name": "Satakunta",
+        "code": "FI-17"
+      },
+      {
+        "name": "Uusimaa",
+        "code": "FI-18"
+      },
+      {
+        "name": "Varsinais-Suomi",
+        "code": "FI-19"
+      }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "states": [
+      {
+        "name": "Ad Daqahlīyah",
+        "code": "EG-DK"
+      },
+      {
+        "name": "Al Baḩr al Aḩmar",
+        "code": "EG-BA"
+      },
+      {
+        "name": "Al Buḩayrah",
+        "code": "EG-BH"
+      },
+      {
+        "name": "Al Fayyūm",
+        "code": "EG-FYM"
+      },
+      {
+        "name": "Al Gharbīyah",
+        "code": "EG-GH"
+      },
+      {
+        "name": "Al Iskandarīyah",
+        "code": "EG-ALX"
+      },
+      {
+        "name": "Al Ismāٰīlīyah",
+        "code": "EG-IS"
+      },
+      {
+        "name": "Al Jīzah",
+        "code": "EG-GZ"
+      },
+      {
+        "name": "Al Minyā",
+        "code": "EG-MN"
+      },
+      {
+        "name": "Al Minūfīyah",
+        "code": "EG-MNF"
+      },
+      {
+        "name": "Al Qalyūbīyah",
+        "code": "EG-KB"
+      },
+      {
+        "name": "Al Qāhirah",
+        "code": "EG-C"
+      },
+      {
+        "name": "Al Uqşur",
+        "code": "EG-LX"
+      },
+      {
+        "name": "Al Wādī al Jadīd",
+        "code": "EG-WAD"
+      },
+      {
+        "name": "As Suways",
+        "code": "EG-SUZ"
+      },
+      {
+        "name": "As Sādis min Uktūbar",
+        "code": "EG-SU"
+      },
+      {
+        "name": "Ash Sharqīyah",
+        "code": "EG-SHR"
+      },
+      {
+        "name": "Aswān",
+        "code": "EG-ASN"
+      },
+      {
+        "name": "Asyūţ",
+        "code": "EG-AST"
+      },
+      {
+        "name": "Banī Suwayf",
+        "code": "EG-BNS"
+      },
+      {
+        "name": "Būr Saٰīd",
+        "code": "EG-PTS"
+      },
+      {
+        "name": "Dumyāţ",
+        "code": "EG-DT"
+      },
+      {
+        "name": "Janūb Sīnā'",
+        "code": "EG-JS"
+      },
+      {
+        "name": "Kafr ash Shaykh",
+        "code": "EG-KFS"
+      },
+      {
+        "name": "Maţrūḩ",
+        "code": "EG-MT"
+      },
+      {
+        "name": "Qinā",
+        "code": "EG-KN"
+      },
+      {
+        "name": "Shamāl Sīnā'",
+        "code": "EG-SIN"
+      },
+      {
+        "name": "Sūhāj",
+        "code": "EG-SHG"
+      },
+      {
+        "name": "Ḩulwān",
+        "code": "EG-HU"
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "states": [
+      {
+        "name": "Hovedstaden",
+        "code": "DK-84"
+      },
+      {
+        "name": "Midtjylland",
+        "code": "DK-82"
+      },
+      {
+        "name": "Nordjylland",
+        "code": "DK-81"
+      },
+      {
+        "name": "Sjælland",
+        "code": "DK-85"
+      },
+      {
+        "name": "Syddanmark",
+        "code": "DK-83"
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "states": [
+      {
+        "name": "Guangxi",
+        "code": "CN-45",
+        "subdivision": "Autonomous region",
+        "native": "广西"
+      },
+      {
+        "name": "Nei Mongol",
+        "code": "CN-15",
+        "subdivision": "Autonomous region",
+        "native": "内蒙古"
+      },
+      {
+        "name": "Ningxia",
+        "code": "CN-64",
+        "subdivision": "Autonomous region",
+        "native": "宁夏"
+      },
+      {
+        "name": "Xinjiang",
+        "code": "CN-65",
+        "subdivision": "Autonomous region",
+        "native": "新疆"
+      },
+      {
+        "name": "Xizang",
+        "code": "CN-54",
+        "subdivision": "Autonomous region",
+        "native": "西藏"
+      },
+      {
+        "name": "Beijing",
+        "code": "CN-11",
+        "subdivision": "Municipality",
+        "native": "北京"
+      },
+      {
+        "name": "Chongqing",
+        "code": "CN-50",
+        "subdivision": "Municipality",
+        "native": "重庆"
+      },
+      {
+        "name": "Shanghai",
+        "code": "CN-31",
+        "subdivision": "Municipality",
+        "native": "上海"
+      },
+      {
+        "name": "Tianjin",
+        "code": "CN-12",
+        "subdivision": "Municipality",
+        "native": "天津"
+      },
+      {
+        "name": "Anhui",
+        "code": "CN-34",
+        "subdivision": "Province",
+        "native": "安徽"
+      },
+      {
+        "name": "Fujian",
+        "code": "CN-35",
+        "subdivision": "Province",
+        "native": "福建"
+      },
+      {
+        "name": "Gansu",
+        "code": "CN-62",
+        "subdivision": "Province",
+        "native": "甘肃"
+      },
+      {
+        "name": "Guangdong",
+        "code": "CN-44",
+        "subdivision": "Province",
+        "native": "广东"
+      },
+      {
+        "name": "Guizhou",
+        "code": "CN-52",
+        "subdivision": "Province",
+        "native": "贵州"
+      },
+      {
+        "name": "Hainan",
+        "code": "CN-46",
+        "subdivision": "Province",
+        "native": "海南"
+      },
+      {
+        "name": "Hebei",
+        "code": "CN-13",
+        "subdivision": "Province",
+        "native": "河北"
+      },
+      {
+        "name": "Heilongjiang",
+        "code": "CN-23",
+        "subdivision": "Province",
+        "native": "黑龙江"
+      },
+      {
+        "name": "Henan",
+        "code": "CN-41",
+        "subdivision": "Province",
+        "native": "河南"
+      },
+      {
+        "name": "Hubei",
+        "code": "CN-42",
+        "subdivision": "Province",
+        "native": "湖北"
+      },
+      {
+        "name": "Hunan",
+        "code": "CN-43",
+        "subdivision": "Province",
+        "native": "湖南"
+      },
+      {
+        "name": "Jiangsu",
+        "code": "CN-32",
+        "subdivision": "Province",
+        "native": "江苏"
+      },
+      {
+        "name": "Jiangxi",
+        "code": "CN-36",
+        "subdivision": "Province",
+        "native": "江西"
+      },
+      {
+        "name": "Jilin",
+        "code": "CN-22",
+        "subdivision": "Province",
+        "native": "吉林"
+      },
+      {
+        "name": "Liaoning",
+        "code": "CN-21",
+        "subdivision": "Province",
+        "native": "辽宁"
+      },
+      {
+        "name": "Qinghai",
+        "code": "CN-63",
+        "subdivision": "Province",
+        "native": "青海"
+      },
+      {
+        "name": "Shaanxi",
+        "code": "CN-61",
+        "subdivision": "Province",
+        "native": "陕西"
+      },
+      {
+        "name": "Shandong",
+        "code": "CN-37",
+        "subdivision": "Province",
+        "native": "山东"
+      },
+      {
+        "name": "Shanxi",
+        "code": "CN-14",
+        "subdivision": "Province",
+        "native": "山西"
+      },
+      {
+        "name": "Sichuan",
+        "code": "CN-51",
+        "subdivision": "Province",
+        "native": "四川"
+      },
+      {
+        "name": "Taiwan",
+        "code": "CN-71",
+        "subdivision": "Province",
+        "native": "台湾"
+      },
+      {
+        "name": "Yunnan",
+        "code": "CN-53",
+        "subdivision": "Province",
+        "native": "云南"
+      },
+      {
+        "name": "Zhejiang",
+        "code": "CN-33",
+        "subdivision": "Province",
+        "native": "浙江"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "CN-91",
+        "subdivision": "Special administrative region",
+        "native": "香港"
+      },
+      {
+        "name": "Macao",
+        "code": "CN-92",
+        "subdivision": "Special administrative region",
+        "native": "澳门"
+      }
+    ]
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "states": [
+      {
+        "name": "Acre",
+        "code": "BR-AC"
+      },
+      {
+        "name": "Alagoas",
+        "code": "BR-AL"
+      },
+      {
+        "name": "Amapá",
+        "code": "BR-AP"
+      },
+      {
+        "name": "Amazonas",
+        "code": "BR-AM"
+      },
+      {
+        "name": "Bahia",
+        "code": "BR-BA"
+      },
+      {
+        "name": "Ceará",
+        "code": "BR-CE"
+      },
+      {
+        "name": "Distrito Federal",
+        "code": "BR-DF"
+      },
+      {
+        "name": "Espírito Santo",
+        "code": "BR-ES"
+      },
+      {
+        "name": "Goiás",
+        "code": "BR-GO"
+      },
+      {
+        "name": "Maranhão",
+        "code": "BR-MA"
+      },
+      {
+        "name": "Mato Grosso",
+        "code": "BR-MT"
+      },
+      {
+        "name": "Mato Grosso do Sul",
+        "code": "BR-MS"
+      },
+      {
+        "name": "Minas Gerais",
+        "code": "BR-MG"
+      },
+      {
+        "name": "Paraná",
+        "code": "BR-PR"
+      },
+      {
+        "name": "Paraíba",
+        "code": "BR-PB"
+      },
+      {
+        "name": "Pará",
+        "code": "BR-PA"
+      },
+      {
+        "name": "Pernambuco",
+        "code": "BR-PE"
+      },
+      {
+        "name": "Piauí",
+        "code": "BR-PI"
+      },
+      {
+        "name": "Rio Grande do Norte",
+        "code": "BR-RN"
+      },
+      {
+        "name": "Rio Grande do Sul",
+        "code": "BR-RS"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "code": "BR-RJ"
+      },
+      {
+        "name": "Rondônia",
+        "code": "BR-RO"
+      },
+      {
+        "name": "Roraima",
+        "code": "BR-RR"
+      },
+      {
+        "name": "Santa Catarina",
+        "code": "BR-SC"
+      },
+      {
+        "name": "Sergipe",
+        "code": "BR-SE"
+      },
+      {
+        "name": "São Paulo",
+        "code": "BR-SP"
+      },
+      {
+        "name": "Tocantins",
+        "code": "BR-TO"
+      }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "states": [
+      {
+        "name": "Brussels Hoofdstedelijk Gewest",
+        "code": "BE-BRU"
+      },
+      {
+        "name": "Région Wallonne",
+        "code": "BE-WAL"
+      },
+      {
+        "name": "Vlaams Gewest",
+        "code": "BE-VLG"
+      }
+    ]
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "states": [
+      {
+        "name": "Burgenland",
+        "code": "AT-1"
+      },
+      {
+        "name": "Kärnten",
+        "code": "AT-2"
+      },
+      {
+        "name": "Niederösterreich",
+        "code": "AT-3"
+      },
+      {
+        "name": "Oberösterreich",
+        "code": "AT-4"
+      },
+      {
+        "name": "Salzburg",
+        "code": "AT-5"
+      },
+      {
+        "name": "Steiermark",
+        "code": "AT-6"
+      },
+      {
+        "name": "Tirol",
+        "code": "AT-7"
+      },
+      {
+        "name": "Vorarlberg",
+        "code": "AT-8"
+      },
+      {
+        "name": "Wien",
+        "code": "AT-9"
+      }
+    ]
+  }
+]

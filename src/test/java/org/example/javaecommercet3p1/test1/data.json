@@ -1,0 +1,41 @@
+
+[
+  {
+    "id":"1",
+    "name": "AlzaPC GameBox Prime - i7 / RTX4070 SUPER / 32GB RAM / 1TB SSD",
+    "description": "Herní PC Intel Core i7-12700KF Alder Lake 5 GHz, NVIDIA GeForce RTX 4070 SUPER 12GB, RAM 32GB DDR4, SSD 1000 GB, Bez mechaniky, Wi-Fi, HDMI 2,1 a DisplayPort 1,4, 4× USB 2.0, typ skříně: Midi Tower, Windows 11 Home",
+    "price": "37990",
+    "images": ["1.webp","2.webp","3.webp","4.webp","5.webp"]
+  },
+  {
+    "id":"2",
+    "name": "HAL3000 MČR Finale Pro 4070",
+    "description": "Herní PC Intel Core i5 13400F Raptor Lake 4.6 GHz, NVIDIA GeForce RTX 4070 12GB, RAM 32GB DDR4, SSD 1000 GB, Bez mechaniky, HDMI a DisplayPort, 7× USB 3.2, 2× USB 2.0, typ skříně: Midi Tower, Windows 11 Home",
+    "price": "37800",
+    "images": ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp"]
+  },
+  {
+    "id":"3",
+    "name": "AlzaPC GameBox Elite Logitech Edice - i7 / RTX4070Ti SUPER / Black + Logitech G CORE herní set",
+    "description": "Herní PC Intel Core i7-14700KF Raptor Lake Refresh 5.6 GHz, NVIDIA GeForce RTX 4070 Ti SUPER 16GB, RAM 32GB DDR5, SSD 2000 GB, Bez mechaniky, Wi-Fi, HDMI 2,1 a DisplayPort 1,4, 3× USB 3.2, 1× USB 2.0, typ skříně: Midi Tower, Windows 11 Home",
+    "price": "60490",
+    "images": ["1.webp"]
+  },
+  {
+    "id":"4",
+    "name": "HAL3000 Master Gamer 4060 Ti",
+    "description": "Herní PC Intel Core i5 13400F Raptor Lake 4.6 GHz, NVIDIA GeForce RTX 4060 Ti 8GB, RAM 32GB DDR4, SSD 1000 GB, Bez mechaniky, Wi-Fi, HDMI a DisplayPort, 2× USB 3.2, 4× USB 2.0, typ skříně: Midi Tower, Windows 11 Home",
+    "price": "29990",
+    "images": ["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp"]
+  },
+  {
+    "id":"5",
+    "name": "Mac Pro M2 Ultra",
+    "description": "Počítač Apple M2 ULTRA (24jádrové), Apple M2 ULTRA 76jádrová GPU, RAM 192GB, SSD 8000 GB, Wi-Fi, HDMI a Thunderbolt 4, 2× USB 3.2, typ skříně: Midi Tower, magic mouse 2 a Magic Keyboard, macOS",
+    "price": "348490",
+    "images": ["1.webp"]
+  }
+
+]
+
+
