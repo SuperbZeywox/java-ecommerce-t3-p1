@@ -48,7 +48,7 @@ class JavaEcommerceT3P1ApplicationTests {
     @Test
     void orderTest3() {
         Pageable pageable = PageRequest.of(0,3);
-        List<Order> content = orderRepository.findOrdersByUserEmail("test@gmail.com", pageable).getContent();
+        List<Order> content = orderRepository.findOrdersByUserUsername("test@gmail.com", pageable).getContent();
         content.forEach(System.out::println);
     }
 

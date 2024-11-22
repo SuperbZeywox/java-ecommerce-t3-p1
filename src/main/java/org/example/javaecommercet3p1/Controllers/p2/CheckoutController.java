@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 //@RequestMapping("api/shop/")
 //@RequestMapping("checkout/")
-@RequestMapping("finance/")
+@RequestMapping("api/finance/")
 public class CheckoutController {
 
     @Autowired

@@ -38,9 +38,7 @@ public class Test2 {
     public  <T extends Product> List<T> performSearchList(String keyWord, Class<T> clazz) {
         TypedQuery<T> query1 = entityManager.createQuery("SELECT e FROM Desktop e WHERE e.name like :condition", clazz);
         query1.setParameter("condition", '%' + keyword + '%');
-//        List<Desktop> resultList = query1.getResultList();
         return query1.getResultList();
-//        System.out.println(resultList.size());
     }
 
 
